@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 🎓 Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026  
-💻 Backend developer (.NET)
+💻 Backend developer (.NET)   
 🏆 250+ Codeforces problems solved  
 📬 Contact: issehs023@gmail.com  
 
