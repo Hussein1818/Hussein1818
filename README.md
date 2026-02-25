@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/0O6F2xKXkXoAAAAd/ishowspeed-yeah-right.gif" width="420"/>
+  <img src="https://media.giphy.com/media/s5wFafpHxqKbIEERl9/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 🎓 Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026  
 💻 Backend developer (.NET), Web  
 🏆 250+ Codeforces problems solved  
-📬 Contact: **issehs023@gmail.com**
+📬 Contact: issehs023@gmail.com  
 
 ---
 
