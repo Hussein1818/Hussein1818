@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/0O6F2xKXkXoAAAAC/ishowspeed-yeah-right.gif" width="420"/>
+  <img src="https://c.tenor.com/0O6F2xKXkXoAAAAd/ishowspeed-yeah-right.gif" width="420"/>
 </p>
 
 ---
