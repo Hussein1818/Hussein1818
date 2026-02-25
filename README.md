@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hussein Mohamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <i>Backend Developer (.NET) | Competitive Programmer | Computer Science Student</i>
+  <i>Backend Developer (.NET) | Computer Science Student</i>
 </p>
 
 <p align="center">
