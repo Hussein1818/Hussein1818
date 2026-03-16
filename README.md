@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein Mohamed</h1>
-<h3 align="center">Backend Developer (.NET) | Computer Science Student</h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;Computer+Science+Student;Always+Learning+New+Things" />
@@ -9,11 +9,11 @@
 
 # 💫 About Me
 
-🎓 Computer Science Student @ **EELU – Cairo** (Expected Graduation: 2026)
-💻 Backend Developer specializing in **.NET & SQL Server**
-🏆 Solved **250+ problems on Codeforces**
-📚 Passionate about **Backend Systems & Problem Solving**
-📫 Contact: **[issehs023@gmail.com](mailto:issehs023@gmail.com)**
+* 🎓 Computer Science Student @ **EELU – Cairo** (Expected Graduation: 2026)
+* 💻 Backend Developer specializing in **.NET & SQL Server**
+* 🏆 Solved **250+ problems on Codeforces**
+* 📚 Passionate about **Backend Systems & Problem Solving**
+* 📫 Contact: **[issehs023@gmail.com](mailto:issehs023@gmail.com)**
 
 ---
 
@@ -61,11 +61,11 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=dotnet,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=dotnet,sqlserver,html,css" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux" />
 
 </p>
 
