@@ -86,31 +86,13 @@
 
 </p>
 
-</p>
+
 
 ---
 
-### 🗄️ Database
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-</p>
-
----
-
-### 🛠️ Tools & Environment
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGNpYXZ0cjJmazdudzVqYnExMXF1MWcwOWYzaGRsaTkxcXR3bW4zeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNGHqtEdHDAcgDPJCj/giphy.gif" width="500"/>
