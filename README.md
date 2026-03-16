@@ -71,8 +71,7 @@
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOLID_Principles-0A66C2?style=for-the-badge"/>
@@ -82,7 +81,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 
 </p>
 
