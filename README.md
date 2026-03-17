@@ -12,7 +12,7 @@
 * 💻 Backend Developer specializing in **ASP.NET**
 * 🏆 Solved **250+ problems on Codeforces**
 * 📚 Passionate about **Backend Systems**
-* 📫 Contact: **[issehs023@gmail.com](mailto:issehs023@gmail.com)**
+  
 
 ---
 
